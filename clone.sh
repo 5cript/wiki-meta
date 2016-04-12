@@ -6,3 +6,4 @@ git clone git@github.com:5cript/twisted-spirit.git
 git clone git@github.com:5cript/wiki-client.git
 git clone git@github.com:5cript/wiki-editor.git
 git clone git@github.com:5cript/wiki-markup.git
+git clone git@github.com:5cript/wiki-meta.git

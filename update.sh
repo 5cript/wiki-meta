@@ -41,3 +41,8 @@ printf "${RED}wretched-css${NC}\n"
 cd wretched-css
 git pull
 cd ..
+
+printf "${RED}wiki-meta${NC}\n"
+cd wiki-meta
+git pull
+cd ..
