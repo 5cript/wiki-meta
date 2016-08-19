@@ -48,6 +48,11 @@ git pull
 cd ..
 
 printf "${RED}wiki-editor-vcl${NC}\n"
-cd wiki-meta
+cd wiki-editor-vcl
+git pull
+cd ..
+
+printf "${RED}dll${NC}\n"
+cd dll
 git pull
 cd ..

@@ -51,3 +51,8 @@ printf "${RED}wiki-editor-vcl${NC}\n"
 cd wiki-editor-vcl
 git status
 cd ..
+
+printf "${RED}dll${NC}\n"
+cd dll
+git status
+cd ..
