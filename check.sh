@@ -46,3 +46,8 @@ printf "${RED}wiki-meta${NC}\n"
 cd wiki-meta
 git status
 cd ..
+
+printf "${RED}wiki-editor-vcl${NC}\n"
+cd wiki-editor-vcl
+git status
+cd ..
