@@ -9,3 +9,4 @@ git clone git@github.com:5cript/wiki-markup.git
 git clone git@github.com:5cript/wiki-meta.git
 git clone git@github.com:5cript/wiki-editor-vcl.git
 git clone git@github.com:5cript/dll.git
+git clone git@github.com:5cript/wiki-vcl-css.git

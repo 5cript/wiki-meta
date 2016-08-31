@@ -21,7 +21,6 @@ cd twisted-spirit
 git status 
 cd ..
 
-
 printf "${RED}wiki-client${NC}\n"
 cd wiki-client
 git status
@@ -54,5 +53,10 @@ cd ..
 
 printf "${RED}dll${NC}\n"
 cd dll
+git status
+cd ..
+
+printf "${RED}wiki-vcl-css${NC}\n"
+cd wiki-vcl-css
 git status
 cd ..

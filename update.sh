@@ -56,3 +56,8 @@ printf "${RED}dll${NC}\n"
 cd dll
 git pull
 cd ..
+
+printf "${RED}wiki-vcl-css${NC}\n"
+cd wiki-vcl-css
+git pull
+cd ..
