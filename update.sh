@@ -61,3 +61,8 @@ printf "${RED}wiki-vcl-css${NC}\n"
 cd wiki-vcl-css
 git pull
 cd ..
+
+printf "${RED}star-tape${NC}\n"
+cd star-tape
+git pull
+cd ..
