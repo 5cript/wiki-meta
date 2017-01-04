@@ -66,3 +66,8 @@ printf "${RED}star-tape${NC}\n"
 cd star-tape
 git pull
 cd ..
+
+printf "${RED}wiki-boost-subset${NC}\n"
+cd boost
+git pull
+cd ..
