@@ -71,3 +71,8 @@ printf "${RED}wiki-boost-subset${NC}\n"
 cd boost
 git pull
 cd ..
+
+printf "${RED}interval-tree${NC}\n"
+cd interval-tree
+git pull
+cd ..

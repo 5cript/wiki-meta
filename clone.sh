@@ -12,3 +12,4 @@ git clone git@github.com:5cript/dll.git
 git clone git@github.com:5cript/wiki-vcl-css.git
 git clone git@github.com:5cript/star-tape.git
 git clone git@github.com:5cript/wiki-boost-subset.git ./boost
+git clone git@github.com:5cript/interval-tree.git
